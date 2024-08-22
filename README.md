@@ -109,7 +109,7 @@
 </table>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>

@@ -4,7 +4,7 @@
 <div align="center">
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <table>
   <tr>

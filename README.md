@@ -3,8 +3,8 @@
 # 💫 About Me:
 🔭 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>🌱 I’m currently learning Full-Stack development<br>
 
-Kareem Mohamed Ahmed
-Full-Stack Developer | Computer Science Student | Technology Enthusiast
+**Kareem Mohamed Ahmed**<br />
+Full-Stack Developer | Computer Science Student | Technology Enthusiast<br />
 
 I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef, Egypt. Currently, I’m pursuing my studies at Beni Suef University in the Faculty of Computer Science and Artificial Intelligence, where I specialize in computer science and explore the latest trends in technology and software development.
 
@@ -16,7 +16,68 @@ Core Competencies:
 - Back-End Development: Creating robust, scalable server-side logic.
 - Problem Solving: Tackling complex challenges with efficient solutions.
 - Continuous Learning: Keeping pace with the latest tech trends and tools.
-  
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <style>
+    .info-card {
+      background-color: #f4f4f9;
+      border-radius: 15px;
+      padding: 20px;
+      max-width: 400px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      margin: auto;
+      font-family: Arial, sans-serif;
+      color: #333;
+    }
+    .info-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+    .info-item i {
+      font-size: 24px;
+      margin-right: 10px;
+      color: #007bff;
+    }
+    .info-item span {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="info-card">
+  <div class="info-item">
+    <i class="fas fa-user"></i>
+    <span><strong>Name:</strong> Kareem Mohamed Ahmed</span>
+  </div>
+  <div class="info-item">
+    <i class="fas fa-birthday-cake"></i>
+    <span><strong>Age:</strong> 22 years old</span>
+  </div>
+  <div class="info-item">
+    <i class="fas fa-map-marker-alt"></i>
+    <span><strong>Location:</strong> Beni Suef, Egypt</span>
+  </div>
+  <div class="info-item">
+    <i class="fas fa-graduation-cap"></i>
+    <span><strong>University:</strong> Beni Suef University</span>
+  </div>
+  <div class="info-item">
+    <i class="fas fa-code"></i>
+    <span><strong>Specialization:</strong> Full-Stack Developer</span>
+  </div>
+</div>
+
+</body>
+</html>
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
 </p>

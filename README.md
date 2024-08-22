@@ -3,16 +3,17 @@
 
 ## 🌐 Socials:
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/kareem-mohamed2002/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Kareem+Mohammed&size=square&rounded=25" alt="Kareem">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Kareem+Mohammed&size=square&rounded=25" alt="LinkedIn Account">
       </a>
     </td>
     <td align="center">
       <a href="https://facebook.com/kareemmohamed369" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siFacebook&subtitle=Kareem+Mohammed&size=square&rounded=25" alt="Kareem Mohammed">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siFacebook&subtitle=Kareem+Mohammed&size=square&rounded=25" alt="Facebook Account">
       </a>
     </td>
     <td align="center">

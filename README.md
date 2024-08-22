@@ -16,13 +16,12 @@ Core Competencies:
 - Problem Solving: Tackling complex challenges with efficient solutions.
 - Continuous Learning: Keeping pace with the latest tech trends and tools.
 
--
-[![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6)]()
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
 </p>
 <div align="center">
+[![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6)]()
 
 # 🌐 Socials:
 

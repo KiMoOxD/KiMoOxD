@@ -1,8 +1,9 @@
 # 💫 About Me:
 🔭 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>🌱 I’m currently learning Full-Stack development<br>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
+</p>
 <div align="center">
-
 
 # 🌐 Socials:
 

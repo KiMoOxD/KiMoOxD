@@ -11,30 +11,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.instagram.com/k.ii.m.o_/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="Kareem">
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.linkedin.com/in/kareem-mohamed2002/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kareem">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKareem-Mohammed-33048518a%2F&subtitle=@kareem-mohamed2002&size=square" alt="Kareem">
       </a>
     </td>
     <td align="center">
       <a href="https://facebook.com/karemmohamed369" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kareem Mohammed">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.reddit.com/user/xZaaaM" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="xZaaaM">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkaremmohamed369&subtitle=@Kkaremmohamed369&size=square" alt="Kareem Mohammed">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/KiMoOxD" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKareemMohammed&subtitle=%2FKareem+Mohammed&size=square" alt="Kenan Gain">
       </a>
     </td>
   </tr>

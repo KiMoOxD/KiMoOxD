@@ -16,6 +16,8 @@ Core Competencies:
 - Problem Solving: Tackling complex challenges with efficient solutions.
 - Continuous Learning: Keeping pace with the latest tech trends and tools.
 
+-
+[![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6)]()
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
@@ -163,6 +165,3 @@ Core Competencies:
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=KiMoOxD&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=3)
-
----
-[![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6)]()

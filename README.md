@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 # 💫 About Me:
-🔭 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>🌱 I’m currently learning Full-Stack development<br>
 
 **Kareem Mohamed Ahmed**<br />
 Full-Stack Developer | Computer Science Student | Technology Enthusiast<br />

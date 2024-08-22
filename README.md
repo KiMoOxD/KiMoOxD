@@ -109,12 +109,11 @@
 </table>
 </div>
 
-<div align="center" style="display: flex">
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
+        <th colspan="2" align="center" style="color: white;">Backend</th>
+        <th colspan="3" align="center" style="color: white;">Database</th>
   </thead>
   <tbody>
     <tr>
@@ -123,6 +122,15 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
     </tr>
   </tbody>
@@ -147,49 +155,6 @@
     </tr>
   </tbody>
 </table>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <!-- Backend Table -->
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="4" align="center" style="color: white;">Backend</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- Database Table -->
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="4" align="center" style="color: white;">Database</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-        </td>
-      </tr>
-    </tbody>
-  </table>
 </div>
 
 

@@ -48,9 +48,9 @@
 
 # Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiMoOxD&theme=dark)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiMoOxD&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiMoOxD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiMoOxD&theme=dark)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KiMoOxD&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=3)

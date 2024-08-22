@@ -2,6 +2,8 @@
 🔭 I'm a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>🌱 I’m currently learning Full-Stack development<br>
 
 <div align="center">
+
+
 ## 🌐 Socials:
 
 <table>

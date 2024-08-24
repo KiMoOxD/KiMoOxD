@@ -2,20 +2,7 @@
 
 # 💫 About Me:
 
-**Kareem Mohamed Ahmed**<br />
-Full-Stack Developer | Computer Science Student | Technology Enthusiast<br />
-
 I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef, Egypt. Currently, I’m pursuing my studies at Beni Suef University in the Faculty of Computer Science and Artificial Intelligence, where I specialize in computer science and explore the latest trends in technology and software development.
-
-With a strong passion for coding and problem-solving, I have honed my skills as a Full-Stack Developer. My journey into development has empowered me to work on both front-end and back-end technologies, ensuring that I can deliver well-rounded, dynamic applications.
-
-Core Competencies:
-
-- Front-End Development: Building visually appealing, user-friendly interfaces.
-- Back-End Development: Creating robust, scalable server-side logic.
-- Problem Solving: Tackling complex challenges with efficient solutions.
-- Continuous Learning: Keeping pace with the latest tech trends and tools.
-
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />

@@ -148,7 +148,7 @@ I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)<br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiMoOxD&theme=dark)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiMoOxD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KiMoOxD&theme=dark&hide_border=true&border_radius=5&locale=ar&background=45%2C1E222122%2C000000)](https://git.io/streak-stats)
+
 
 
 ## 🏆 GitHub Trophies:

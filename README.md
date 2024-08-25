@@ -12,7 +12,10 @@ I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef
 [![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6&pretty=true)]()
 
 </div>
+
 # 🌐 Socials:
+
+<div align="center">
 
 <table>
   <tr>
@@ -51,6 +54,7 @@ I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef
   </tr>
 </table>
 
+</div>
 
 # 💻 Tech Stack:
 

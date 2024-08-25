@@ -9,8 +9,9 @@ I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef
 </p>
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6)]()
+[![](https://visitcount.itsvg.in/api?id=KiMoOxD&icon=0&color=6&pretty=true)]()
 
+</div>
 # 🌐 Socials:
 
 <table>

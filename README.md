@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&section=header" width="100%">
 # 💫 About Me:
 
 I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef, Egypt. Currently, I’m pursuing my studies at Beni Suef University in the Faculty of Computer Science and Artificial Intelligence, where I specialize in computer science and explore the latest trends in technology and software development.

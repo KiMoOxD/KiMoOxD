@@ -4,6 +4,10 @@
 
 I am Kareem Mohamed Ahmed, a 22-year-old computer science student from Beni Suef, Egypt. Currently, I’m pursuing my studies at Beni Suef University in the Faculty of Computer Science and Artificial Intelligence, where I specialize in computer science and explore the latest trends in technology and software development.
 
+Software was my passion long before it became my profession. I got my first computer back in 5th grade and I was hooked to that 2GB RAM Compaq! I wrote my first program in JavaScript (NodeJs) and became fond of writing Bot Logic (Discord.js) through elementary school.
+
+I decided to study CS to build a solid foundation for my hobby. During college, I won a couple of programming awards including a national one for a billirads game I wrote in C++. Then, I had some of my games selected for commercial release by a software firm.
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
 </p>

@@ -166,25 +166,6 @@ From those early days with limited hardware to my current projects, I've maintai
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiMoOxD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <div style="flex: 1 1 100%;">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiMoOxD&theme=dark)
-  </div>
-  
-  <div style="flex: 1 1 100%;">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)
-  </div>
-  
-  <div style="flex: 1; min-width: 300px;">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiMoOxD&theme=dark)
-  </div>
-  
-  <div style="flex: 1; min-width: 300px;">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiMoOxD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  </div>
-
-</div>
 
 ## 🏆 GitHub Trophies:
 

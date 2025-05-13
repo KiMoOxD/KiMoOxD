@@ -168,11 +168,11 @@ From those early days with limited hardware to my current projects, I've maintai
 </div>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <div style="flex: 1 1 100%; min-width: 300px;">
+  <div style="flex: 1 1 100%;">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiMoOxD&theme=dark)
   </div>
   
-  <div style="flex: 1 1 100%; min-width: 300px;">
+  <div style="flex: 1 1 100%;">
     ![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)
   </div>
   

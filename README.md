@@ -158,7 +158,7 @@ From those early days with limited hardware to my current projects, I've maintai
 
 # Stats:
 
-<div align="left">
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiMoOxD&theme=dark)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)<br />

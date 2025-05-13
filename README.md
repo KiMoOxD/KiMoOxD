@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+![image](https://github.com/user-attachments/assets/1eb477da-63df-433c-a763-3d48a7e495e6)<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 # 💫 About Me:
 
@@ -164,6 +164,25 @@ From those early days with limited hardware to my current projects, I've maintai
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)<br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiMoOxD&theme=dark)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiMoOxD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <div style="flex: 1 1 100%; min-width: 300px;">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiMoOxD&theme=dark)
+  </div>
+  
+  <div style="flex: 1 1 100%; min-width: 300px;">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=KiMoOxD&theme=dark&hide_border=true)
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiMoOxD&theme=dark)
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiMoOxD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  </div>
 
 </div>
 
